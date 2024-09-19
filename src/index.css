@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card2 {
+   
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 auto !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) rotate(-5deg)  !important;
+    width: 500px !important;
+   
+}
+
+/* .card2:hover {
+    transform: translate(-50%, -50%) rotateY(180deg) !important;
+    transition: transform 0.6s !important;
+    backface-visibility: hidden !important;
+    background-color: currentColor !important;
+    color: transparent !important;
+} */
+    
