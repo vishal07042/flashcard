@@ -22,7 +22,7 @@ const pathOfImages = [
 "/src/assets/marvelChars/Gamora_05_Foreground_Common.png",
 "/src/assets/marvelChars/Gamora_06_Foreground_Common.png",
 "/src/assets/marvelChars/Gamora_07_Foreground_Common.png",
-"/src/assets/marvelChars/Gamora_08_Foreground_Common.png",
+
 "/src/assets/marvelChars/Gamora_09_Foreground_Common.png",
 "/src/assets/marvelChars/Groot_01_Foreground_Common.png",
 "/src/assets/marvelChars/Groot_02_Foreground_Common.png",
@@ -31,8 +31,7 @@ const pathOfImages = [
 "/src/assets/marvelChars/Groot_05_Foreground_Common.png",
 "/src/assets/marvelChars/Groot_06_Foreground_Common.png",
 "/src/assets/marvelChars/Groot_07_Foreground_Common.png",
-"/src/assets/marvelChars/Groot_08_Foreground_Common.png",
-"/src/assets/marvelChars/Groot_09_Foreground_Common.png",
+
 "/src/assets/marvelChars/Hawkeye_01_Foreground_Common.png",
 "/src/assets/marvelChars/Hawkeye_02_Foreground_Common.png",
 "/src/assets/marvelChars/Hawkeye_03_Foreground_Common.png",

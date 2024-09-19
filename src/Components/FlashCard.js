@@ -17,7 +17,7 @@ export const flashcardData=[
 			topic: "Binary Search",
 
 			color: "from-red-400 to-red-600",
-			image: "/src/assets/marvelChars/Deadpool_03_Foreground_Common.png",
+			
 			hero: "Deadpool",
 			definition:
 				"Binary Search is a search algorithm that finds the position of a target value within a sorted array.",
@@ -29,7 +29,7 @@ export const flashcardData=[
 			topic: "Array",
 
 			color: "from-green-300 to-green-500",
-			image: "/src/assets/marvelChars/Wolverine_05_Foreground_Common.png",
+		
 			hero: "Spider-Man",
 			definition:
 				"An array is a collection of elements identified by index or key. Each element is stored in a contiguous memory location.",
@@ -40,7 +40,7 @@ export const flashcardData=[
 			id: "04",
 			topic: "Quick Sort",
 			color: "from-blue-400 to-blue-600",
-			image: "/src/assets/marvelChars/Thor_01_Foreground_Common.png",
+		
 			hero: "Iron Man",
 			definition:
 				"Quick Sort is a divide and conquer algorithm that works by selecting a pivot element, partitioning the array into elements less than and greater than the pivot, and recursively sorting the partitions.",
@@ -51,7 +51,7 @@ export const flashcardData=[
 			id: "05",
 			topic: "Heap Sort",
 			color: "from-purple-400 to-purple-600",
-			image: "/src/assets/marvelChars/Hulk_01_Foreground_Common.png",
+	
 			hero: "Hulk",
 			definition:
 				"Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure. It first builds a heap from the input data and then repeatedly extracts the maximum element from the heap and rebuilds the heap until sorted.",
@@ -62,7 +62,7 @@ export const flashcardData=[
 			id: "06",
 			topic: "Linked List",
 			color: "from-teal-300 to-teal-500",
-			image: "/src/assets/marvelChars/Captain-America_01_Foreground_Common.png",
+		
 			hero: "Captain America",
 			definition:
 				"A Linked List is a linear data structure where elements are stored in nodes, with each node containing a reference (or link) to the next node in the sequence.",
@@ -73,7 +73,7 @@ export const flashcardData=[
 			id: "07",
 			topic: "Stack",
 			color: "from-indigo-400 to-indigo-600",
-			image: "/src/assets/marvelChars/Wolverine_01_Foreground_Common.png",
+			
 			hero: "Wolverine",
 			definition:
 				"A Stack is a linear data structure that follows the Last In First Out (LIFO) principle. Elements are added and removed from the same end, called the top.",
@@ -84,7 +84,7 @@ export const flashcardData=[
 			id: "08",
 			topic: "Queue",
 			color: "from-orange-300 to-orange-500",
-			image: "/src/assets/marvelChars/Black-Widow_01_Foreground_Common.png",
+	
 			hero: "Black Widow",
 			definition:
 				"A Queue is a linear data structure that follows the First In First Out (FIFO) principle. Elements are added at the rear and removed from the front.",
@@ -95,7 +95,7 @@ export const flashcardData=[
 			id: "09",
 			topic: "Binary Tree",
 			color: "from-gray-300 to-gray-500",
-			image: "/src/assets/marvelChars/Doctor-Strange_01_Foreground_Common.png",
+			
 			hero: "Doctor Strange",
 			definition:
 				"A Binary Tree is a hierarchical data structure in which each node has at most two children referred to as the left child and the right child.",
@@ -106,7 +106,7 @@ export const flashcardData=[
 			id: "10",
 			topic: "Graph",
 			color: "from-pink-400 to-pink-600",
-			image: "/src/assets/marvelChars/Scarlet-Witch_01_Foreground_Common.png",
+			
 			hero: "Scarlet Witch",
 			definition:
 				"A Graph is a collection of nodes connected by edges. It can represent various relationships and structures, such as networks or social connections.",
